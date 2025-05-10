@@ -1,0 +1,3 @@
+﻿  funkiPlayer.cpp
+D:\visualcode\playerCpp\playerCpp\funkiPlayer.cpp(48,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  playerCpp.vcxproj -> D:\visualcode\playerCpp\playerCpp\x64\Debug\playerCpp.exe
